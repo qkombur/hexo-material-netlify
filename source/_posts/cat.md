@@ -1,8 +1,9 @@
 ---
 title: cat
-date: 2018-07-25 16:00:37
-lang: en
-tags:
+date: 2018-07-25T16:00:37.000Z
+thumbnail: /images/uploads/netlify-logo.png
+rating: '5'
 ---
+# asdf
 
-![cat](cat.jpg)
+FASF
